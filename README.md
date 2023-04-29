@@ -4,7 +4,7 @@
 
 ![Gabriel Lucindo GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucindo27&show_icons=true&theme=dark)
 
-## Technologies I'm currently studying
+## Skills
 
 <div style="display: inline_block"></br>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
