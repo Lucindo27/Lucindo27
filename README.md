@@ -1,4 +1,4 @@
-### Hello, World! I´m Gabriel Lucindo 🖐️
+### Hello, world! I´m Gabriel Lucindo 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lucindo-5524921a3/)
 
